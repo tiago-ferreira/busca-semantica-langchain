@@ -1,0 +1,1 @@
+"""PDF semantic search application."""
